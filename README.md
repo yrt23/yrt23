@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yrt23
 - 👀 I’m interested in the topics of energy, tech and sustainability.
 - 🌱 I’m currently learning to code in Python.
-- 💞️ I’m looking to collaborate on data science projects.
+- 💞️ I’m looking to collaborate on data science and web development projects.
 - 📫 You can reach me at yrt23[at]cam.ac.uk
 
 <!---
